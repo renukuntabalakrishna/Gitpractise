@@ -1,2 +1,0 @@
-hi this is first git file.
-hi how are you.
